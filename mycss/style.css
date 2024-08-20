@@ -1,0 +1,12 @@
+.img {
+  height: 150px;
+  width: 150px;
+  max-width: 0 auto;
+  border-radius: 50%;
+}
+
+.profile {
+  height: 50px;
+  width: 280px;
+  background-color: #f5f7fa;
+}
